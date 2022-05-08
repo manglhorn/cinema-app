@@ -1,0 +1,9 @@
+mate\academy\security\CustomUserDetailsServiceTest.class
+mate\academy\dao\impl\AbstractTest.class
+mate\academy\dao\impl\RoleDaoImplTest.class
+mate\academy\security\AuthenticationServiceImplTest.class
+mate\academy\dao\impl\AbstractTest$DataSourceProvider$Database.class
+mate\academy\dao\impl\AbstractTest$HsqldbDataSourceProvider.class
+mate\academy\dao\impl\UserDaoImplTest.class
+mate\academy\dao\impl\AbstractTest$DataSourceProvider.class
+mate\academy\dao\impl\AbstractTest$DataSourceProvider$IdentifierStrategy.class

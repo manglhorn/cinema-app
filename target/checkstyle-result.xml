@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\config\AppConfig.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\config\SecurityConfig.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\config\SecurityInitializer.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\config\WebAppInitializer.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\config\WebConfig.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\controller\AuthenticationController.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\controller\CinemaHallController.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\controller\CustomGlobalExceptionHandler.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\controller\InjectController.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\controller\MovieController.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\controller\MovieSessionController.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\controller\OrderController.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\controller\ShoppingCartController.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\controller\UserController.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\dao\AbstractDao.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\dao\CinemaHallDao.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\dao\impl\AbstractDao.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\dao\impl\CinemaHallDaoImpl.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\dao\impl\MovieDaoImpl.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\dao\impl\MovieSessionDaoImpl.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\dao\impl\OrderDaoImpl.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\dao\impl\RoleDaoImpl.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\dao\impl\ShoppingCartDaoImpl.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\dao\impl\TicketDaoImpl.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\dao\impl\UserDaoImpl.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\dao\MovieDao.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\dao\MovieSessionDao.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\dao\OrderDao.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\dao\RoleDao.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\dao\ShoppingCartDao.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\dao\TicketDao.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\dao\UserDao.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\dto\request\CinemaHallRequestDto.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\dto\request\MovieRequestDto.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\dto\request\MovieSessionRequestDto.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\dto\request\UserRequestDto.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\dto\response\CinemaHallResponseDto.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\dto\response\MovieResponseDto.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\dto\response\MovieSessionResponseDto.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\dto\response\OrderResponseDto.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\dto\response\ShoppingCartResponseDto.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\dto\response\UserResponseDto.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\exception\AuthenticationException.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\exception\DataProcessingException.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\exception\InvalidJwtAuthenticationException.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\lib\EmailValidator.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\lib\FieldsValueMatch.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\lib\FieldsValueMatchValidator.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\lib\ValidEmail.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\model\CinemaHall.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\model\Movie.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\model\MovieSession.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\model\Order.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\model\Role.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\model\ShoppingCart.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\model\Ticket.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\model\User.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\security\CustomUserDetailsService.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\service\AuthenticationService.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\service\CinemaHallService.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\service\impl\AuthenticationServiceImpl.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\service\impl\CinemaHallServiceImpl.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\service\impl\MovieServiceImpl.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\service\impl\MovieSessionServiceImpl.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\service\impl\OrderServiceImpl.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\service\impl\RoleServiceImpl.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\service\impl\ShoppingCartServiceImpl.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\service\impl\UserServiceImpl.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\service\mapper\CinemaHallMapper.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\service\mapper\MovieMapper.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\service\mapper\MovieSessionMapper.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\service\mapper\OrderMapper.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\service\mapper\RequestDtoMapper.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\service\mapper\ResponseDtoMapper.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\service\mapper\ShoppingCartMapper.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\service\mapper\UserMapper.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\service\MovieService.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\service\MovieSessionService.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\service\OrderService.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\service\RoleService.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\service\ShoppingCartService.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\service\UserService.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\java\cinema\spring\util\DateTimePatternUtil.java">
+</file>
+<file name="C:\Users\vlads\cinema-app\src\main\resources\db.properties">
+</file>
+</checkstyle>
